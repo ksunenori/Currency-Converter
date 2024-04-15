@@ -12,7 +12,6 @@ Features
 *   **Real-Time Conversion**: Fetches the latest currency exchange rates from an external API to provide accurate conversions.
 *   **Dynamic Currency Options**: Allows users to choose from a comprehensive list of global currencies.
 *   **User-Friendly Interface**: Offers an intuitive graphical user interface designed with JavaFX.
-*   **Robust Error Handling**: Ensures the application handles network issues and user input errors gracefully.
 
 Installation
 ------------
