@@ -1,0 +1,2 @@
+# Currency Converter
+ This JavaFX-based Currency Converter App provides a user-friendly interface for real-time currency conversion. Utilizing OkHttpClient and Gson for API communication, this application fetches the latest exchange rates from a reliable external API. Features include dynamic currency selection, robust error handling, and user input validation. Designed for efficiency and ease of use, this app is ideal for travelers, financial professionals, and anyone interested in currency exchange rates.
