@@ -21,6 +21,7 @@ Installation
 
 *   Java 11 or higher
 *   JavaFX SDK
+*   API Key from [APILayer]([url](https://apilayer.com/marketplace/currency_data-api#documentation-tab))
 
 Usage
 -----
