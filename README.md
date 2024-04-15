@@ -4,7 +4,7 @@ Currency Converter App
 Overview
 --------
 
-This Currency Converter App is a JavaFX-based application that allows users to convert currencies in real-time. It utilizes OkHttpClient and Gson to fetch current exchange rates from a reliable API, ensuring accurate and up-to-date currency conversion. Designed for simplicity and efficiency, this app is perfect for travelers, financial professionals, or anyone interested in global financial markets.
+This Currency Converter App is a JavaFX-based application that allows users to convert currencies in real-time. It utilizes OkHttpClient and Gson to fetch current exchange rates from a reliable API, ensuring accurate and up-to-date currency conversion.
 
 Features
 --------
