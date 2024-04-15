@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+#resultLabel{
+    -fx-font-size: 48;
+    -fx-padding: 20;
+    -fx-background-radius: 5;
+    -fx-font-weight: 700;
+}
+
+#convertButton:hover{
+    -fx-background-color: #d9c707
+}
+.root{
+    -fx-background-color: #faf7a5;
+}
+
+.combo-box .list-cell{
+    -fx-background-color: #d9e0b6;
+    -fx-text-fill: white;
+}
+
+.combo-box.list-cell:hover{
+    -fx-background-color: #d9c707
+}
+
+.combo-box-base:hover {
+    -fx-background-color: #d9c707
+}
+.common-components{
+    -fx-font-family: 'Noto Sans JP', sans-serif;
+    -fx-font-size: 32;
+    -fx-font-weight: 800;
+    -fx-background-color: #d9e0b6;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: white;
+}
+
+.hand-cursor{
+    -fx-cursor: hand;
+}
